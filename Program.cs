@@ -6,7 +6,7 @@ namespace Deneme
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("dsçmjlg");
+            Console.WriteLine("dsçmjlgn");
         }
     }
 }
